@@ -1,0 +1,9 @@
+.form1{
+  background-image: url("https://www.google.ca/search?q=toronto+images&tbm=isch&ved=2ahUKEwinytLXodbxAhUKJ6wKHSk9CzUQ2-cCegQIABAA&oq=toronto+images&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BwgAELEDEEM6BAgAEEM6BQgAELEDUIB7WLiOAWCCkQFoAHAAeACAAWCIAf4IkgECMTSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=xmXoYKfPEIrOsAWp-qyoAw&bih=722&biw=1536#imgrc=bu8BhfD0yodUGM");
+  background-color: blue;
+}
+
+
+.body{
+  background-color: blue;
+}
